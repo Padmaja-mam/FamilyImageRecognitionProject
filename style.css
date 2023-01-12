@@ -1,0 +1,49 @@
+body
+{
+  background-color : #C6FF00;
+  text-align : center;
+}
+p2
+{
+  color : magenta;
+}
+#camera
+{
+  border : 3px magenta dashed;
+  width : 300px;
+  height : 500px;
+}
+#result
+{
+  border : 5px gold double;
+  width : 300px;
+  height : 300px;
+}
+#capture_button
+{
+  background-color : magenta;
+  color : gold;
+  height : 50px;
+  width : 200px;
+  font-size : medium;
+  cursor : pointer;
+}
+#identify_button
+{
+  background-color : magenta;
+  color : gold;
+  height : 50px;
+  width : 200px;
+  font-size : medium;
+  cursor : pointer;
+}
+#result_object_name
+{
+  color : black;
+  font-family: Raleway, sans-serif;
+}
+#result_object_accuracy
+{
+  color : black;
+  font-family: Raleway, sans-serif;
+}
